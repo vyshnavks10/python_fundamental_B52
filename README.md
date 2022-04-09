@@ -1,2 +1,2 @@
-# python_fundamental_B52
+# python_fundamental
 python fundamental 
